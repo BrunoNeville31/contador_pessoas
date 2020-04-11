@@ -1,0 +1,4 @@
+#Sat Apr 04 08:55:21 BRT 2020
+base.0=/home/bruno/Área de Trabalho/contador_pessoas/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
